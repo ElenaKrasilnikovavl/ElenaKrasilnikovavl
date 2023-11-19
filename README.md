@@ -5,10 +5,3 @@ I'm QA-enginee.
 How to contact me: Just send email _elena.vl.krasilnikova@gmail.com
 
 My education: cource Netologia "Testing Engineer: from scratch to middle".
-![Elena Krasilnikova][def]
-
-
-
-
-[def]: https://drive.google.com/file/d/1ARU0yr_n3dytmn4og4u7AjwUh5z0CFdV/view# cv
-# vc
